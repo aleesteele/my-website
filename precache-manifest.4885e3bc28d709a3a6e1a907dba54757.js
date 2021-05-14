@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/static/js/2.18080c9d.chunk.js"
   },
   {
-    "revision": "1a870ee9765a78dd389d137e4c97272f",
-    "url": "/static/media/socialfont.1a870ee9.woff"
-  },
-  {
     "revision": "98d2b2b80a734c5af3382b9ec0c45396",
     "url": "/static/media/socialfont.98d2b2b8.eot"
+  },
+  {
+    "revision": "1a870ee9765a78dd389d137e4c97272f",
+    "url": "/static/media/socialfont.1a870ee9.woff"
   },
   {
     "revision": "a6a9ada91d11827dbdb386424909022b",
