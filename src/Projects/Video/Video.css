@@ -1,0 +1,12 @@
+.Video {
+    margin: 30px;
+    text-align: center;
+}
+
+.Video-preview {
+    max-width: 50%;
+}
+
+.Video-header {
+    /* max-width: 600px; */
+}

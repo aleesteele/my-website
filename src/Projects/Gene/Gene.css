@@ -1,0 +1,13 @@
+.Recent {
+    margin: 20px;
+}
+
+.Recent-photo {
+    max-width: 50%;
+}
+
+.Recent-link {
+    color: #000000;
+    margin: 0px;
+    padding: 0px;
+}
